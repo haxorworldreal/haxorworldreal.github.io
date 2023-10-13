@@ -3,7 +3,7 @@
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxorworldreal&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> Leviathan Perfect Hunter
+- <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> HaxorGroup
 
 <img title="haxorworldreal" src="https://komarev.com/ghpvc/?username=haxorworldreal&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 [![Gmail Badge](https://img.shields.io/badge/-haxorworld7@gmail.com-black?style=flat&logo=Gmail&link=mailto:haxorworld7@gmail.com)](mailto:haxorworld7@gmail.com) 
